@@ -1,0 +1,105 @@
+body {
+    background-image: url('../img/fondo.png');
+    background-repeat: no-repeat;
+    color: #ffffff;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#header{
+    background-color: #004C19 ;
+}
+footer{
+    background-color: #004C19;
+    color: white;
+    padding: 20px 0;
+}
+.footer-heading {
+    text-decoration: underline;
+}
+.footer-heading hr {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.footer-logo {
+    width: 180px;
+}
+.footer-column p, .footer-column h6 {
+    margin-bottom: 2px; /* Ajusta el margen entre párrafos y encabezados */
+}
+.footer-column p:last-child {
+    margin-top: -2px; /* Ajusta el margen superior solo para el último párrafo */
+}
+ /* Estilos para la sección de comentarios */
+ .comment-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.comment-section input[type="text"],
+.comment-section textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.comment-section button {
+    padding: 10px 20px;
+    background-color: #004C19;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
